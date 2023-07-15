@@ -1,0 +1,48 @@
+body{
+    background-color: #f3f4e5;  
+    color: #e394a7;
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 1.25%;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo{
+    color:#9a5071;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+.axolot{
+    width: 500px;
+    display:flex;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+.menu{
+    
+    display: flex;
+    background-color: #e394a7;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+a{
+    font-family: 'Anton', sans-serif;
+    color:#f3f4e5;
+    text-decoration: double;
+}
+p{
+    color:#2f3559;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h3{
+    font-family: 'Moirai One', cursive;
+}
+
+
+    /*COMENTARIOS 
+    selector{ selecciona el pedazo de html t lo edita
+        propiedad: valor;
+    }
+    */
